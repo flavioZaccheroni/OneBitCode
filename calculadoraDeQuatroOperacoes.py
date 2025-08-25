@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# ja foi
 def exibir_menu():
     """Exibe o menu de opções para o usuário."""
     print("\n--- Calculadora Python ---")
